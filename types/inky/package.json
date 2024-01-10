@@ -1,0 +1,14 @@
+{
+  "private": true,
+  "name": "@types/ink-text-input",
+  "version": "1.0.0",
+  "projects": [
+    "https://github.com/Hexcss/inky-types#readme"
+  ],
+  "owners": [
+    {
+      "name": "Javier Cáder Suay",
+      "githubUsername": "Hexcss"
+    }
+  ]
+}
